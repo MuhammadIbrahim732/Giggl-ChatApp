@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653965954163",
+    "project_id": "giggl-chat-app",
+    "storage_bucket": "giggl-chat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653965954163:android:3d5b271e0d5762199d2e06",
+        "android_client_info": {
+          "package_name": "com.example.chat_messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E9hKfcGLfEOgWflQK5M8DIf-M7L11rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
