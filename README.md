@@ -15,7 +15,7 @@
 
 ---
 
-## 📱 Overview
+## 📱 Overviews and Explanation
 
 **Giggl** is a fully-featured real-time chat application built with Flutter and Firebase. It offers a clean, expressive messaging experience with emoji support, secure authentication, and instant message delivery — all wrapped in a modern purple-themed UI.
 
